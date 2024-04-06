@@ -21,3 +21,4 @@ You can find in this file a presentation explaining what was the goal of my code
 |Seaborn Library :books: | Grouping and Aggregation :people_hugging: |
 |Numpy   Library :books: | Data Cleaning :broom:|
 |Matplotlib.pyplot Library :bar_chart:| Functions :bulb: |
+
