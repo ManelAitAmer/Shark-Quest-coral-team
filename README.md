@@ -14,3 +14,10 @@ The Idea of the Quest is having an agency that provides shark attacks informatio
 ## content:
 
 You can find in this file a presentation explaining what was the goal of my codes that I used for this quest, and a Jupyter Notebook where I developped my cleaning and analysing of my data.
+
+| Methods Used  | Methods Used | 
+| ------------- | -------------|
+|Pandas  Library|
+|Seaborn Library| 
+|Numpy   Library| 
+|Matplotlib.pyplot   Library|
