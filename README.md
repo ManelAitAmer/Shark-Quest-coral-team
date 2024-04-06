@@ -17,7 +17,7 @@ You can find in this file a presentation explaining what was the goal of my code
 
 | Methods Used  | Methods Used | 
 | ------------- | -------------|
-|Pandas  Library|
-|Seaborn Library| 
-|Numpy   Library| 
-|Matplotlib.pyplot   Library|
+|Pandas  Library :panda_face: | Mapping :world_map:|
+|Seaborn Library :books: | Grouping and Aggregation :people_hugging: |
+|Numpy   Library :books: | Data Cleaning :broom:|
+|Matplotlib.pyplot Library :bar_chart:| Functions :bulb: |
