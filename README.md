@@ -4,8 +4,13 @@
 
 ## Introduction:
 
+The Idea of the Quest is having an agency that provides shark attacks information to their tourists clients from all over the world.
+
 * :shark: This project is the 2nd quest of my bootcamp in IRONHACK. 
 * :shark: The Shark-Quest is cleaning and manipulation of Data.
 * :shark: The Data used can be found on : (https://www.sharkattackfile.net/spreadsheets/GSAF5.xls)
 
 
+## content:
+
+You can find in this file a presentation explaining what was the goal of my codes that I used for this quest, and a Jupyter Notebook where I developped my cleaning and analysing of my data.
