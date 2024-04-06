@@ -4,6 +4,8 @@
 
 ## Introduction:
 
-- This project is the 2nd quest of my bootcamp in IRONHACK. 
-- The Shark-Quest is cleaning and manipulation of Data.
-- The Data used can be found on : 
+:shark: This project is the 2nd quest of my bootcamp in IRONHACK. 
+:shark: The Shark-Quest is cleaning and manipulation of Data.
+:shark: The Data used can be found on : (https://www.sharkattackfile.net/spreadsheets/GSAF5.xls)
+
+
